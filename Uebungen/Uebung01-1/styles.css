@@ -1,0 +1,12 @@
+#img1 {
+    height: 576px;
+    width: 1024px;
+    padding: 60px 60px 60px 60px;
+}
+td, th {
+    padding: 5px 10px 5px 0;
+}
+body {
+    background: aqua;
+    text-align: center;
+}
